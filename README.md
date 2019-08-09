@@ -7,7 +7,7 @@
  &#10687; Node.js (Express library);<br> 
  &#10687; JSONWebToken;<br>
  &#10687; Bcrypt;<br>
- &#10687; Sendgrid<br>.
+ &#10687; Sendgrid.
 
   
 <h2>Installation and Setup Instructions</h2>
@@ -29,7 +29,7 @@ When API starts running in terminal/command promt you will see a message: <b> Se
 &#10687; /users/me/avatar - HTTP POST - Avatar -> Upload an avatar<br>
 &#10687; /users/me/avatar - HTTP DELETE - Avatar -> Delete user accounts avatar<br>
 &#10687; /users/:id/avatar - HTTP GET - Avatar -> Get user avatar<br>
-
+<br>
 For User authentication JSONWebtoken was used;<br>
 &#10687; /users/myaccount - HTTP GET - Account -> Get user account information<br>
 &#10687; /users - HTTP POST - Users -> Create a new user<br>
